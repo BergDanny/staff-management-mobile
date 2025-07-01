@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170924515152",
+    "project_id": "lab-test-danial",
+    "storage_bucket": "lab-test-danial.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170924515152:android:67475068e26133cb7ad655",
+        "android_client_info": {
+          "package_name": "com.example.staff_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBId1At8feBJtBtMwvpZc0lmO0guJA6SV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
